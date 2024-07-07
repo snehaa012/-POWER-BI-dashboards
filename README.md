@@ -1,0 +1,3 @@
+Amazon sales analysis dashboards in Power BI provide dynamic visualizations of sales data, enabling comprehensive insights into sales trends, performance metrics, and customer behavior. These dashboards facilitate data-driven decision-making by offering real-time tracking of KPIs, revenue analysis, and inventory management, enhancing overall business strategy and efficiency.
+
+A Virat Kohli statistics analysis dashboard in Power BI provides a dynamic and interactive visualization of his cricket performance. It includes metrics such as runs scored, batting averages, strike rates, and century counts, enabling users to explore and analyze Kohli's career trends and key performance indicators effectively.
